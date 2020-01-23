@@ -1,3 +1,5 @@
+Market-Moving Twitter Personalities
+
 ## Contributors
 Yishuang Chen, Jeff Peng, Edward Tiong, Jidapa Thanabhusest, Jing Wang
 
