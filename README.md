@@ -11,4 +11,7 @@ We are interested in examining whether the tweets of other celebrities or influe
 - Yahoo Finance: 5,089 data points (Since 2016)
 
 ## Model
-21 features were generated including sentiment scores, search popularity and time variables from three data sources above. Trading volume precentage with customized window size was used as the label for the supervised learning task. Mutiple models were trained including Auto Regressive, Random Foreast, Xtreme Gradiant Boosting and Stacked model, with cross validation and bootstrapped metrics. 
+* 21 features were generated including sentiment scores, search popularity and time variables from three data sources above. 
+* Trading volume precentage with customized window size was used as the label for the supervised learning task. 
+* Mutiple models were trained including Auto Regressive, Random Foreast, Xtreme Gradiant Boosting and Stacked model.
+* Cross validation and bootstrapping confidence intervals for performance metrics were applied. 
