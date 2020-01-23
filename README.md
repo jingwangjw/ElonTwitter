@@ -1,3 +1,5 @@
+## Contributors
+Yishuang Chen, Jeff Peng, Edward Tiong, Jidapa Thanabhusest, Jing Wang
 
 ## Introduction
 In August 2018, Elon Musk tweeted that he “[is] considering taking Tesla private at $420” and that “funding is secured”. Within the next four hours, TSLA’ s market cap increased by $12 billion. As a matter of fact, some of Elon’s controversial tweets have had a history of moving Tesla’s share prices significantly. Recent similar events include how Snapchat stock price plummeted after Kylie Jenner’s tweet and how Trump’s tweets have affected the US stock market. 
