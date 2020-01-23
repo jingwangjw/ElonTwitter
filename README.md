@@ -14,7 +14,7 @@ We aim to discover characteristics from tweets that contribute to the prediction
 ## Model
 * 21 features were generated including sentiment scores, search popularity and time variables  
 * Trading volume precentage with customized window size was used as the label for the supervised learning task 
-* Auto Regressive, Random Foreast, Xtreme Gradiant Boosting and Stacked model were trained
+* Auto Regressive, Random Foreast, Xtreme Gradiant Boosting and Stacked model were trained with random search
 * Cross validation and bootstrapping confidence intervals for performance metrics were applied 
 
 
